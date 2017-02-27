@@ -51,6 +51,9 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
     display: block;
+ img {
+     float: right;
+    }
     
 
 
