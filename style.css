@@ -52,7 +52,13 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 img {
-    float: right;
-    margin: 0 0 10px 10px;
+  float: right;
+  width: 250px;
+  height: ;
+  margin: 1px;
+  border-color: dimgray;
+  border-width: 8px;
+  border-style: inset;
+  border-radius: 35px;
 }
 
