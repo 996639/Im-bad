@@ -61,4 +61,8 @@ img {
   border-style: inset;
   border-radius: 35px;
 }
+    
+p {
+  font-style: italic;
+    }
 
