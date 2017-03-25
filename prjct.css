@@ -1,5 +1,9 @@
 body {
-    background-color:dimgray;
+    background-color: dimgray;
+}
+
+* {
+    font-family: Arial;
 }
 
 ul {
@@ -61,8 +65,3 @@ img {
   border-style: inset;
   border-radius: 35px;
 }
-    
-p {
-  font-style: oblique;
-    }
-
