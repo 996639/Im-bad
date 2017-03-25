@@ -3,6 +3,10 @@ body {
     font-style: italic;
 }
 
+p.italic {
+    font-style: italic;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
