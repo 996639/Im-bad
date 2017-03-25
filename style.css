@@ -1,6 +1,6 @@
 body {
     background-color: dimgray;
-    text-family: italic;
+    font-family: italic;
 }
 
 ul {
@@ -63,7 +63,5 @@ img {
   border-radius: 35px;
 }
     
-p {
-  font-style: oblique;
-    }
+
 
