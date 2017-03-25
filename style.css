@@ -1,10 +1,9 @@
 body {
     background-color: dimgray;
-    font-style: italic;
 }
 
 p {
-    font-style: italic;
+    font-family: "Arial", Times, serif;
 }
 
 ul {
