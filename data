@@ -1,6 +1,51 @@
-	<DOCTYPE! html>
-  <HTML>
-<meta charset="uft-8">
+	<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="page1.css">
+   <title>Home</title>
+</head>
+<body>
+   
+<ul>
+  <li><a href="index">Home</a></li>
+   <li class="dropdown">
+     <a href="javascript:void(0)" class="dropbtn">NA Showmatches</a>
+     <div class="dropdown-content">
+      <a href="1">Mijo vs Dappur</a>
+      <a href="2">Dappur vs Lethamyr</a>
+      <a href="#">Lachnio vs SquishyMuffinz</a>
+      <a href="#">Lachnio vs Rizzo</a>
+      <a href="#">Lachnio vs 0verZer0</a>
+      <a href="#">Lachinio vs Pluto </a>
+      <a href="#">Mijo vs Dappur</a>
+      <a href="#">Dappur vs Lethamyr</a>
+      <a href="#">Kronovi vs Mijo</a>
+      <a href="#">Lethamyr vs Sebadam</a>
+      <a href="#">Mijo vs Torment</a>
+       
+    </div>
+  </li>
+     <li class="dropdown">
+     <a href="javascript:void(0)" class="dropbtn">EU Showmatches</a>
+     <div class="dropdown-content">
+      <a href="prjct">Projects</a>
+      <a href="#">Scrub Killa vs Kuxir97</a>
+      <a href="#">Scrub Killa vs Maestro</a>
+      <a href="#">M1k3rules vs Scrub Killa</a>
+      <a href="#">Markydooda vs Scrub Killa</a>
+      <a href="#">Scrub Killa vs Turbopolsa</a>
+      <a href="#">Scrub Killa vs Jessie</a>
+      <a href="#">Deevo vs Scrub Killa</a>
+      <a href="#">JHZER vs Scrub Killa</a>
+      <a href="#">M1k3rules vs Scrub Killa</a>
+      <a href="#">Turbopolsa vs Maestro</a>
+      <a href="#">Kuxir97 vs Turbopolsa</a>
+      <a href="#">Kuxir97 vs Chausette</a>
+      <a href="#">Kuxir97 vs Greazy</a>
+     </div>
+  </li>
+ </ul>
+
   <title> TuvaLabs Data (Presidental Electoral Votes compared to executive actions sigend)</title>
 <head>    
   <ul>
